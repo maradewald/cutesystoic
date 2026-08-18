@@ -6,8 +6,9 @@ Drawer**.
 ## One-line definition
 
 A completely serious Stoic quotation sits in a protected clearing at the
-center of a beloved 1990s sticker-book page, while dozens of original glitter,
-foil, and printed stickers accumulate exuberantly around it.
+center of a beloved 1990s sticker-book page, while dozens of original,
+physically dimensional glitter, foil, pearlescent, and puffy stickers accumulate
+exuberantly around it.
 
 ## Why it works
 
@@ -19,6 +20,10 @@ someone incapable of leaving a good thing unstickered.
 
 The abundance is important. This is not a quote card with a few decorative
 icons. It should feel collected, handled, traded, and added to over time.
+
+**Dimensionality is mandatory.** The stickers must look raised, domed, embossed,
+layered, or puffy enough to touch. The quotation is the opposite: completely
+flat, matte-black ink printed directly on the paper.
 
 ## Format
 
@@ -75,8 +80,8 @@ legible and is never converted into a sticker.
   serif
 - **Case:** sentence case
 - **Color:** soft black, approximately `#171717`
-- **Treatment:** no outline, shadow, gradient, arch, distortion, or sticker
-  border
+- **Treatment:** solid matte printed ink; no glitter, foil, white speckling,
+  shine, outline, shadow, gradient, arch, distortion, or sticker border
 - **Alignment:** centered by default; soft asymmetry is permitted when it
   improves the clearing
 - **Leading:** generous enough to let small stickers approach between lines
@@ -100,8 +105,14 @@ Every sticker is original, even when the category language is nostalgic.
 
 The collection may include animals, fruit, weather, toys, flowers, school
 supplies, household objects, celestial forms, food, transport, and abstract
-hearts or stars. Roughly 20–30% of the subjects may echo the passage; the rest
-should feel associatively chosen or simply loved.
+hearts or stars.
+
+**The stickers do not illustrate the quotation.** They should feel like the
+contents of an actual child's sticker drawer: miscellaneous, emotionally
+selected, and only accidentally related to the text. At most one or two subjects
+may happen to echo the passage. If the whole collection becomes clocks for a
+quote about time or luggage for a quote about restlessness, the system has
+failed.
 
 Do not reproduce, trace, or closely imitate an identifiable vintage sticker.
 Borrow the era's material and compositional grammar, not its characters.
@@ -113,14 +124,22 @@ everything.
 
 Suggested balance:
 
-- 35–45% prismatic or holographic foil
-- 20–30% translucent glitter
-- 15–20% pearlescent or iridescent film
-- 10–20% flat printed paper
+- 30–40% domed clear-resin or gel stickers with glitter visibly suspended at
+  different depths
+- 25–35% embossed prismatic or holographic foil with beveled highlights
+- 15–25% pearlescent, iridescent, or softly puffy vinyl
+- 10–15% flatter printed paper stickers for contrast
 
-Each finish should react differently to light. Preserve tiny scratches,
-confetti variation, print grain, occasional misregistration, and slight wear.
-The result should look photographed, not rendered as glossy 3D plastic.
+The large and medium stickers should show approximately 1–4 mm of believable
+physical depth. Use rounded resin menisci, embossed ridges, layered foil,
+beveled edges, internal refraction, and consistent small cast shadows. Light
+comes softly from the upper left so highlights and shadows agree across the
+page.
+
+Each finish reacts differently to light. Preserve tiny scratches, confetti
+variation, print grain, occasional misregistration, and slight wear. The result
+should look like a top-down photograph of real raised 1990s stickers—not a flat
+collage, and not a set of contemporary CGI icons.
 
 ### White die-cut border
 
@@ -129,8 +148,10 @@ The white sticker backing is essential.
 - Cleaner and approximately 8–12% lighter than the background paper
 - Wide enough to read clearly at feed size
 - Slightly irregular around illustrated shapes
-- Defined by tonal contrast and a tiny contact shadow, not a dark outline
-- Physically thin: no puffy vinyl, foam-board depth, or heavy drop shadow
+- Defined by tonal contrast, visible edge thickness, and a consistent contact
+  shadow, not a dark outline
+- Allowed to be visibly raised, beveled, domed, or softly puffy; never thick
+  foam-board or an exaggerated floating drop shadow
 
 This contrast is what makes the stickers look placed *on* the page rather than
 printed into it.
@@ -144,10 +165,12 @@ post.
 - **Sticker backing:** cleaner soft white, approximately `#FFFDF8`
 - **Type:** off-black, approximately `#171717`
 
-Sticker colors may span the full cheerful spectrum. The collection should not
-be forced into a restrained brand palette, but adjacent large stickers should
-not compete at identical hue and value. Use tiny metallic stars and gems to
-bridge color gaps.
+Sticker colors may span the full cheerful spectrum, but the default expression
+is **bright and pink-forward**: bubblegum, hot pink, magenta, lilac, violet,
+aqua, sky blue, candy red, and clear yellow. Avoid drifting into antique gold,
+brown, olive, navy, or muddy beige. Adjacent large stickers should not compete
+at identical hue and value. Use tiny metallic shapes and gems to bridge color
+gaps.
 
 ## Quote selection
 
@@ -192,7 +215,8 @@ The following can change without creating a new style:
 ## Not allowed
 
 - Modern kawaii or chibi philosophers
-- Glossy puffy 3D stickers
+- Generic modern CGI bubble icons; physical vintage-style domed, embossed, and
+  puffy stickers are required
 - Y2K chrome or vaporwave effects
 - Airbrushed rainbow fantasy
 - Emoji or app-icon styling
@@ -213,21 +237,29 @@ The following can change without creating a new style:
 5. Add medium subjects with varied scale and rotation.
 6. Fill awkward gaps with tiny stars, gems, dots, and abstract sparkles.
 7. Balance material finishes rather than only colors.
-8. Make every die-cut border cleaner white than the paper.
-9. Add minimal contact shadows and physical imperfections.
-10. Check the post at thumbnail size.
-11. Confirm that no letter is obscured and no referenced vintage design was
+8. Give large and medium stickers visible physical depth: doming, embossing,
+   layered foil, refraction, beveled edges, and consistent shadows.
+9. Make every die-cut border cleaner white than the paper.
+10. Keep the quotation perfectly flat, solid, matte black, and free of sparkle.
+11. Check that the sticker subjects feel miscellaneous rather than selected to
+    illustrate the quote.
+12. Check the post at thumbnail size.
+13. Confirm that no letter is obscured and no referenced vintage design was
     copied.
-12. Export at 1080×1350.
+14. Export at 1080×1350.
 
 ## Prompt skeleton
 
 > Create a portrait 4:5 Cutesy Stoic post on full-bleed pale warm-white paper.
 > Set the exact verified quotation in large sober black schoolbook serif within
 > an invisible central clearing. Surround it organically with 25–35 original
-> 1980s/90s-style die-cut stickers in varied scales and mixed prismatic,
-> holographic, glitter, pearlescent, and flat printed finishes. Make the sticker
-> backing a cleaner white than the paper with a tiny natural contact shadow.
-> Preserve irregular hand placement, tactile surface wear, and abundant
-> color. Do not cover any letter. No card, frame, branded character, modern
-> kawaii, puffy 3D, or additional text.
+> 1980s/90s-style die-cut stickers in varied scales and mixed domed resin,
+> embossed prismatic foil, suspended glitter, pearlescent film, softly puffy
+> vinyl, and a few flat printed finishes. Make them look physically raised and
+> touchable, with refractive highlights, beveled edges, clean white backing, and
+> consistent small cast shadows. Choose a miscellaneous assortment that does
+> not illustrate the quotation. Keep the quotation perfectly flat, solid,
+> matte-black printed ink with no sparkle. Preserve irregular hand placement,
+> tactile wear, abundant pink-forward color, and bright paper. Do not cover any
+> letter. No card, frame, branded character, modern kawaii, generic CGI icon, or
+> additional text.
