@@ -124,17 +124,22 @@ everything.
 
 Suggested balance:
 
-- 30–40% domed clear-resin or gel stickers with glitter visibly suspended at
-  different depths
-- 25–35% embossed prismatic or holographic foil with beveled highlights
-- 15–25% pearlescent, iridescent, or softly puffy vinyl
-- 10–15% flatter printed paper stickers for contrast
+- 20–30% clearly domed resin, gel, or softly puffy vinyl
+- 20–30% thin embossed prismatic or holographic foil
+- 15–20% thin pearlescent or iridescent film
+- 30–40% genuinely flat printed-paper stickers
 
-The large and medium stickers should show approximately 1–4 mm of believable
+The material contrast must be obvious at first glance. Puffy anchor stickers
+have convex surfaces, depth, and cast shadows. Flat stickers have no lensing,
+no rounded meniscus, no inflated volume, and almost no shadow beyond a hairline
+contact edge. Do not give every sticker a glossy highlight.
+
+Only the selected puffy anchors should show approximately 1–4 mm of believable
 physical depth. Use rounded resin menisci, embossed ridges, layered foil,
-beveled edges, internal refraction, and consistent small cast shadows. Light
-comes softly from the upper left so highlights and shadows agree across the
-page.
+beveled edges, internal refraction, and consistent small cast shadows on those
+stickers. The remaining large and medium stickers may be thin foil or completely
+flat paper. Light comes softly from the upper left so highlights and shadows
+agree across the page.
 
 Each finish reacts differently to light. Preserve tiny scratches, confetti
 variation, print grain, occasional misregistration, and slight wear. The result
@@ -237,16 +242,18 @@ The following can change without creating a new style:
 5. Add medium subjects with varied scale and rotation.
 6. Fill awkward gaps with tiny stars, gems, dots, and abstract sparkles.
 7. Balance material finishes rather than only colors.
-8. Give large and medium stickers visible physical depth: doming, embossing,
-   layered foil, refraction, beveled edges, and consistent shadows.
-9. Make every die-cut border cleaner white than the paper.
-10. Keep the quotation perfectly flat, solid, matte black, and free of sparkle.
-11. Check that the sticker subjects feel miscellaneous rather than selected to
+8. Choose a small set of puffy anchor stickers and give only those obvious
+   doming, refraction, beveled edges, and consistent shadows.
+9. Keep at least one third of the whole collection unmistakably flat: no
+   convex highlight, lensing, inflated volume, or visible depth.
+10. Make every die-cut border cleaner white than the paper.
+11. Keep the quotation perfectly flat, solid, matte black, and free of sparkle.
+12. Check that the sticker subjects feel miscellaneous rather than selected to
     illustrate the quote.
-12. Check the post at thumbnail size.
-13. Confirm that no letter is obscured and no referenced vintage design was
+13. Check the post at thumbnail size.
+14. Confirm that no letter is obscured and no referenced vintage design was
     copied.
-14. Export at 1080×1350.
+15. Export at 1080×1350.
 
 ## Prompt skeleton
 
