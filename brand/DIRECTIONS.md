@@ -37,31 +37,57 @@ lens flare, jelly bevels. Memento mori, but it's an early-2000s CD single.
 
 ---
 
-## Direction 2 — Sticker Sheet
+## Direction 2 — The Sticker Drawer
 
-**Thesis:** kawaii maximalism. The Stoa as a sticker sheet. Puffy vinyl
-shapes, blush marks, a recurring chibi philosopher mascot. Maximum cute,
-zero irony in the delivery.
+**Thesis:** Ancient wisdom presented like a tiny reward from the 1991 sticker
+drawer. The reference is 1980s/90s school-supply ephemera: simple drawings,
+cheerful colors, paper backing, and tactile finishes. Sweet without being
+infantile; nostalgic without becoming a costume. This is not generic kawaii.
+The quote remains completely sincere.
 
-- **Palette:** strawberry milk `#FFD1DC`, matcha `#A8D5A2`, cream `#FFF6E9`,
-  cherry red `#E63946` for punctuation. Soft drop shadows, white sticker
-  borders on everything.
-- **Type:** Baloo 2 (rounded, chunky) for quotes; Gaegu or a hand-drawn accent
-  for asides; attribution in a tiny rounded sans.
-- **Motifs:** a chibi Marcus/Seneca/Epictetus mascot set (togas, laurel,
-  blush cheeks), clouds, columns as squishy shapes, a tiny skull that is —
-  crucially — adorable. The skull is the franchise player.
-- **Composition:** quote inside a big puffy speech bubble or sticker slab,
-  mascots reacting around it. Grid alternates quote posts with pure sticker
-  posts.
-- **Caption voice:** gentle and direct, like a kind kindergarten teacher who
-  has fully accepted death. "the little skull is here to remind you. that's
-  all he does. he's very good at it."
-- **Sample post:** "The obstacle is the way." — chibi Marcus pushing a giant
-  round boulder that has a happy face on it.
-- **Risk:** highest illustration workload of the four; mascot consistency
-  takes real effort. Also the most likely to attract an audience that never
-  reads the captions.
+- **Core visual grammar:** slightly wonky hand-drawn forms, uncomplicated black
+  outlines, flat bright color, white die-cut borders, and ordinary objects or
+  animals given tiny faces, arms, and personalities. The subjects may vary
+  wildly; the drawing language stays fixed.
+- **Palette:** warm sticker-backing white `#F3F0E8`, tomato red `#E44735`,
+  school-bus yellow `#F2C94C`, pool blue `#58BFD1`, grass green `#59A65A`,
+  and bubblegum pink `#E97BAA`. Use backing white plus no more than three
+  brights per post. Fading, slight misregistration, and print texture are
+  welcome; beige nostalgia filters are not.
+- **Type:** the quote in a sober, bookish serif such as Century Schoolbook or
+  Newsreader; attribution in a plain condensed grotesque, treated like a
+  product code at the bottom of a sticker module. Avoid bubbly display type:
+  the stickers carry the cute half of the brand.
+- **Motifs:** original smiling school supplies, fruit, weather, household
+  objects, animals, hands, stars, hearts, clouds, and small symbols of the
+  passage. Philosophers do not appear as chibi mascots. No single franchise
+  character is required.
+- **Finish families:** flat printed paper is the default. Pearlescent, prismatic,
+  glitter, flocked, or translucent finishes may define an occasional post or
+  mini-series, but finishes are never mixed indiscriminately within one image.
+- **Composition:** the post may resemble a complete sticker module, a page in
+  an old sticker book, or one oversized reward sticker with a sober quote
+  label. Preserve breathing room and thumbnail legibility. The account should
+  feel collected over time, not decorated all at once.
+- **Photography:** every sixth or ninth post may use a real purchased vintage
+  sticker on Mara's face, hand, clothing, notebook, or an ordinary object.
+  These photographs make the account physical and personal without requiring
+  talking-to-camera content. Actual branded stickers are photographed as
+  found; brand assets use original illustrations rather than copied designs.
+- **Caption voice:** warm, plainspoken, and lightly deadpan. Never baby talk.
+  \"you get a sticker for noticing.\" / \"today's sticker for coping
+  appropriately.\"
+- **Sample post:** \"Some things are in our control and others not.\" — a
+  cheerful little umbrella sticker remains composed beneath three raindrops;
+  the quote sits beside it in sober schoolbook type, with \"EPICTETUS ·
+  ENCHIRIDION 1\" printed like the code at the foot of a vintage sticker sheet.
+- **Do not blend:** no modern puffy 3D kawaii, chibi philosophers, Y2K chrome,
+  airbrushed rainbow fantasy, snarky slogan buttons, or generic sticker-app
+  iconography.
+- **Risk:** nostalgia can collapse into reference dumping or imitation. The
+  system must borrow the category's grammar while keeping every brand
+  illustration original. If everything becomes a reference, the direction
+  disappears.
 
 ---
 
@@ -125,12 +151,14 @@ comedy is entirely in the deadpan.
 
 - Want maximum contrast between form and content → **Chrome Tears** or
   **Acid Stoa** (loud cute vs. severe text).
-- Want a mascot and the warmest possible on-ramp → **Sticker Sheet**.
+- Want the warmest, most tactile on-ramp and room for physical-world posts →
+  **The Sticker Drawer**.
 - Want the joke to be tone rather than decoration, and the lowest per-post
   production cost → **The Institute**.
 
-My read: **The Institute** is the most defensible and the most *you* — dry,
-composed, nobody else is doing it — but **Sticker Sheet** is the one that
-makes strangers feel something at first sight. Chrome Tears is the trend
-play; Acid Stoa is the taste play. Pick with your gut, then we lock type,
-palette, and templates and never discuss it again.
+Current read: **The Sticker Drawer** has the strongest emotional hook and the
+best bridge between designed posts and Mara's real life. **The Institute**
+remains the most restrained alternative; Chrome Tears is the trend play; Acid
+Stoa is the taste play. The next decision is not whether to mix directions, but
+which expression of The Sticker Drawer — flat character art, tactile sparkle,
+analog collage, or restrained editorial — becomes the default.
