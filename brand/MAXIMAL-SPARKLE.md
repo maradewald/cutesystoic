@@ -6,8 +6,8 @@ Drawer**.
 ## One-line definition
 
 A completely serious Stoic quotation sits in a protected clearing at the
-center of a beloved 1990s sticker-book page, while dozens of original,
-physically dimensional glitter, foil, pearlescent, and puffy stickers accumulate
+center of a beloved 1990s sticker-book page, while dozens of original thin
+paper, glitter-film, prismatic-foil, and pearlescent stickers accumulate
 exuberantly around it.
 
 ## Why it works
@@ -21,9 +21,11 @@ someone incapable of leaving a good thing unstickered.
 The abundance is important. This is not a quote card with a few decorative
 icons. It should feel collected, handled, traded, and added to over time.
 
-**Dimensionality is mandatory.** The stickers must look raised, domed, embossed,
-layered, or puffy enough to touch. The quotation is the opposite: completely
-flat, matte-black ink printed directly on the paper.
+**Flatness is mandatory.** These are thin 1990s paper and film stickers, not
+puffy objects. Their physicality comes from foil facets, glitter laminate,
+pearlescence, white die-cut backing, slight edge lift, and a hairline contact
+shadow. The quotation is also completely flat: matte-black ink printed directly
+on the paper.
 
 ## Format
 
@@ -66,13 +68,12 @@ composed rather than wallpapered.
 
 ### Attribution
 
-The attribution and catalog code sit along the bottom edge in one small,
-quiet line:
+The author and source sit along the bottom edge in one small, quiet line:
 
-`CS–0001 · EPICTETUS · ENCHIRIDION 1`
+`EPICTETUS · ENCHIRIDION 1`
 
-Use the next sequential catalog number for each post. Attribution remains
-legible and is never converted into a sticker.
+Do not use catalog numbers, accession numbers, post numbers, or `CS–00X`
+codes. Attribution remains legible and is never converted into a sticker.
 
 ## Typography
 
@@ -119,32 +120,26 @@ Borrow the era's material and compositional grammar, not its characters.
 
 ## Materials and physical realism
 
-Use a mixed collection rather than applying one digital glitter texture to
-everything.
+Use a mixed collection of genuinely thin materials rather than applying one
+digital glitter texture to everything.
 
 Suggested balance:
 
-- 20–30% clearly domed resin, gel, or softly puffy vinyl
-- 20–30% thin embossed prismatic or holographic foil
-- 15–20% thin pearlescent or iridescent film
-- 30–40% genuinely flat printed-paper stickers
+- 30–40% thin prismatic or holographic foil
+- 20–30% thin translucent glitter film
+- 15–25% thin pearlescent or iridescent laminate
+- 15–25% flat printed paper, including occasional lightly flocked ink
 
-The material contrast must be obvious at first glance. Puffy anchor stickers
-have convex surfaces, depth, and cast shadows. Flat stickers have no lensing,
-no rounded meniscus, no inflated volume, and almost no shadow beyond a hairline
-contact edge. Do not give every sticker a glossy highlight.
+Every sticker lies nearly flush with the paper. There is no convex lensing,
+rounded resin meniscus, inflated volume, thick bevel, broad glossy highlight,
+or cast shadow beyond a hairline contact edge. Sparkle comes from foil facets,
+glitter film, and holographic laminate within a flat plane.
 
-Only the selected puffy anchors should show approximately 1–4 mm of believable
-physical depth. Use rounded resin menisci, embossed ridges, layered foil,
-beveled edges, internal refraction, and consistent small cast shadows on those
-stickers. The remaining large and medium stickers may be thin foil or completely
-flat paper. Light comes softly from the upper left so highlights and shadows
-agree across the page.
-
-Each finish reacts differently to light. Preserve tiny scratches, confetti
-variation, print grain, occasional misregistration, and slight wear. The result
-should look like a top-down photograph of real raised 1990s stickers—not a flat
-collage, and not a set of contemporary CGI icons.
+Each finish reacts differently to light while remaining thin. Preserve tiny
+scratches, confetti variation, print grain, occasional misregistration, and
+slight wear. The result should look like a top-down photograph of a real
+1990s sticker-book page, not a flat digital collage and not a collection of
+three-dimensional objects.
 
 ### White die-cut border
 
@@ -153,10 +148,9 @@ The white sticker backing is essential.
 - Cleaner and approximately 8–12% lighter than the background paper
 - Wide enough to read clearly at feed size
 - Slightly irregular around illustrated shapes
-- Defined by tonal contrast, visible edge thickness, and a consistent contact
-  shadow, not a dark outline
-- Allowed to be visibly raised, beveled, domed, or softly puffy; never thick
-  foam-board or an exaggerated floating drop shadow
+- Defined by tonal contrast and a hairline contact shadow, not a dark outline
+- Physically thin and nearly flush to the paper; never raised, beveled, domed,
+  resin-coated, gel-filled, or puffy
 
 This contrast is what makes the stickers look placed *on* the page rather than
 printed into it.
@@ -220,8 +214,9 @@ The following can change without creating a new style:
 ## Not allowed
 
 - Modern kawaii or chibi philosophers
-- Generic modern CGI bubble icons; physical vintage-style domed, embossed, and
-  puffy stickers are required
+- Puffy, domed, gel, resin, inflated, thickly beveled, or visibly raised
+  stickers of any kind
+- Generic modern CGI bubble icons
 - Y2K chrome or vaporwave effects
 - Airbrushed rainbow fantasy
 - Emoji or app-icon styling
@@ -236,37 +231,37 @@ The following can change without creating a new style:
 ## Repeatable production recipe
 
 1. Choose and verify a short public-domain quote.
-2. Set the quote and attribution before adding any art.
+2. Set the quote and author/source attribution before adding any art.
 3. Establish the invisible central clearing.
-4. Place 4–6 large anchor stickers around the perimeter.
+4. Place 4–6 large flat anchor stickers around the perimeter.
 5. Add medium subjects with varied scale and rotation.
 6. Fill awkward gaps with tiny stars, gems, dots, and abstract sparkles.
-7. Balance material finishes rather than only colors.
-8. Choose a small set of puffy anchor stickers and give only those obvious
-   doming, refraction, beveled edges, and consistent shadows.
-9. Keep at least one third of the whole collection unmistakably flat: no
-   convex highlight, lensing, inflated volume, or visible depth.
-10. Make every die-cut border cleaner white than the paper.
-11. Keep the quotation perfectly flat, solid, matte black, and free of sparkle.
-12. Check that the sticker subjects feel miscellaneous rather than selected to
+7. Balance thin material finishes rather than only colors.
+8. Confirm that every sticker remains flat: no convex highlight, lensing,
+   resin dome, inflated volume, thick bevel, or visible depth.
+9. Make every die-cut border cleaner white than the paper.
+10. Keep the quotation perfectly flat, solid, matte black, and free of sparkle.
+11. Check that the sticker subjects feel miscellaneous rather than selected to
     illustrate the quote.
-13. Check the post at thumbnail size.
-14. Confirm that no letter is obscured and no referenced vintage design was
+12. Check the post at thumbnail size.
+13. Confirm that no letter is obscured and no referenced vintage design was
     copied.
+14. Confirm that the footer contains only author and source—no CS number.
 15. Export at 1080×1350.
 
 ## Prompt skeleton
 
 > Create a portrait 4:5 Cutesy Stoic post on full-bleed pale warm-white paper.
-> Set the exact verified quotation in large sober black schoolbook serif within
-> an invisible central clearing. Surround it organically with 25–35 original
-> 1980s/90s-style die-cut stickers in varied scales and mixed domed resin,
-> embossed prismatic foil, suspended glitter, pearlescent film, softly puffy
-> vinyl, and a few flat printed finishes. Make them look physically raised and
-> touchable, with refractive highlights, beveled edges, clean white backing, and
-> consistent small cast shadows. Choose a miscellaneous assortment that does
-> not illustrate the quotation. Keep the quotation perfectly flat, solid,
-> matte-black printed ink with no sparkle. Preserve irregular hand placement,
-> tactile wear, abundant pink-forward color, and bright paper. Do not cover any
-> letter. No card, frame, branded character, modern kawaii, generic CGI icon, or
-> additional text.
+> Set the exact verified quotation in large sober solid matte-black schoolbook
+> serif within an invisible central clearing. Surround it organically with
+> 25–35 original miscellaneous 1980s/90s-style die-cut stickers in varied
+> scales and mixed thin printed paper, prismatic foil, holographic laminate,
+> glitter film, pearlescent film, and occasional flat flocked finishes. Every
+> sticker must lie nearly flush to the paper: no puffy, domed, gel, resin,
+> inflated, beveled, or raised treatment. Make the sticker backing cleaner
+> white than the paper with only a hairline contact shadow. Choose a random
+> assortment that does not illustrate the quotation. Put only the author and
+> source along the bottom; no catalog number or CS code. Keep the quotation
+> perfectly flat and free of sparkle. Preserve irregular hand placement,
+> tactile wear, bright pink-forward color, and legibility. No card, frame,
+> branded character, modern kawaii, extra text, or copied vintage design.
